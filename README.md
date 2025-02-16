@@ -1,4 +1,4 @@
-<h1 align="center">Fishstrap is meant for advanced users, using fastflags isnt advanced.</h1>
+<h2 align="center">Fishstrap is meant for advanced users, using fastflags isnt advanced.</h2>
 <h4 align="center">Putting fastflags blindlessly in servers that has fastflags (eg. rivals, battlegrounds, dahood) will result in stability issues.</h4>
 
 > [!CAUTION]
