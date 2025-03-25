@@ -1,5 +1,3 @@
-<h2 align="center">Fishstrap is meant for advanced users, using fastflags isnt advanced.</h2>
-<p align="center">Putting fastflags that are claiming to be "performance" or "zero delay" are purely fictional. (eg. rivals, battlegrounds, dahood fastflag servers.) using those will result in stability issues.</p>
 
 > [!CAUTION]
 > The only official places to download Fishstrap are this GitHub repository and [fishstrap.app](https://www.fishstrap.app). Any other websites offering downloads or claiming to be us are not controlled by us.
